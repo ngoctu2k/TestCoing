@@ -1,0 +1,12 @@
+ul,
+li {
+  list-style: none;
+}
+
+.tree__list {}
+
+.tree__item {}
+
+.tree__item ul {
+  display: flex;
+}
